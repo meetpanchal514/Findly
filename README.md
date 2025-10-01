@@ -26,11 +26,14 @@ The design prioritizes clarity and elegance, making every interaction feel fluid
 
 ## Demo
 *Home page with a translucent hero section*  
-![Home Page Screenshot](https://via.placeholder.com/600x300?text=Home+Page)  
+![Home Page Screenshot] <img width="1899" height="876" alt="image" src="https://github.com/user-attachments/assets/dc1147f6-218e-47a5-9e7d-df108511ff60" />
+
 *Browse lost items in a paginated grid*  
-![View Items Screenshot](https://via.placeholder.com/600x300?text=View+Items+Page)  
+![View Items Screenshot]<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/e22f8e25-0270-43d8-bb64-83e7231e44b0" />
+  
 *Report a lost item with a glassmorphic form*  
-![Post Item Screenshot](https://via.placeholder.com/600x300?text=Post+Item+Page)
+![Post Item Screenshot] <img width="1900" height="876" alt="image" src="https://github.com/user-attachments/assets/7a7f7b53-294f-4687-87da-2c002b42b39b" />
+
 
 Visit the live demo (coming soon) to explore Findly’s stunning interface!
 
