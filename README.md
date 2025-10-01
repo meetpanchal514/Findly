@@ -5,7 +5,7 @@ A stylish Lost and Found web app for travelers, inspired by iOS 26's Liquid Glas
 ## Features
 - Report lost items with images.
 - View/paginate/delete items.
-- iOS 26-inspired UI: Translucent glassmorphism, fluid animations, adaptive light/dark mode.
+- Glass inspired UI: Translucent glassmorphism, fluid animations, adaptive light/dark mode.
 - Responsive design with smooth transitions.
 
 ## Setup
