@@ -16,10 +16,8 @@ A stylish Lost and Found web app for travelers, inspired by iOS 26's Liquid Glas
 - Git
 
 ### Installation
-1. Clone or set up in `E:/nir2/findly`:
+1. Clone or set up 
    ```bash
-   mkdir E:/nir2/findly
-   cd E:/nir2/findly
    npm create vite@latest . -- --template react
    npm install react-router-dom framer-motion react-paginate axios clsx tailwindcss postcss autoprefixer @tailwindcss/forms
    npx tailwindcss init -p
