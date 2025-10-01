@@ -1,0 +1,9 @@
+﻿**/node_modules/
+**/.vite/
+**/dist/
+.env
+**/.env
+npm-debug.log*
+yarn-*.log*
+.DS_Store
+Thumbs.db
